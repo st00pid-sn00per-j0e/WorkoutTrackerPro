@@ -1,0 +1,6 @@
+{
+  "name": "FitForge AI",
+  "description": "Generate personalized workout plans using AI based on your fitness goals, experience, and available equipment.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
